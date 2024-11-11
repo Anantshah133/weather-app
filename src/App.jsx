@@ -1,6 +1,6 @@
 import React from 'react'
 import WeatherUi from './Components/WeatherUi';
-import "./app.css";
+import "./App.css";
 
 const App = () => {
     return (
